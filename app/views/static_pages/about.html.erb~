@@ -1,0 +1,11 @@
+<% provide(:title, 'About') %>
+<!DOCTYPE html>
+<title> Sample App | <%= yield(:title) %>  </title>
+<h1>About</h1>
+<p>
+    
+    <a href="http://railstutorial.org"> Rails Tutorial </a>
+    is a app written by VT based on the 
+    <a href="http://railstutorial.org/book"> Rails Tutorial Book</a>
+
+</p>

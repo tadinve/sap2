@@ -1,4 +1,4 @@
-<% provide(:title, 'Help') %>
+<% provide(:title, 'About') %>
 <h1>Help</h1>
 <p>
     To get help on Ruby on Rails Tutorial at the 
